@@ -1,0 +1,7 @@
+#Sat Sep 09 08:40:34 EEST 2017
+base.0=C\:\\Users\\Todor\\Desktop\\Aplicatie Android\\Aplicatie-Android\\AccelerometerPlay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3f552b7ec65b018ecdc91d0cccdbddcb069d3e1a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Todor\\Desktop\\Aplicatie Android\\Aplicatie-Android\\AccelerometerPlay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_23772b7fbf006e3950980dd26cbd9a7235339df3\\classes.dex
+base.1=C\:\\Users\\Todor\\Desktop\\Aplicatie Android\\Aplicatie-Android\\AccelerometerPlay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_23772b7fbf006e3950980dd26cbd9a7235339df3
+file.0=C\:\\Users\\Todor\\Desktop\\Aplicatie Android\\Aplicatie-Android\\AccelerometerPlay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3f552b7ec65b018ecdc91d0cccdbddcb069d3e1a\\classes.dex
